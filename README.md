@@ -15,8 +15,8 @@
 
 ```txt
 Name       : Chattapat (FORCE)
-Role       : Junior Developer | Co-Founder | UX-minded Coder
-Goal       : To become a world-class Senior Developer
+Role       : Junior Developer
+Goal       : To become a Senior Developer
 Language   : Thai 🇹🇭, English 🌍
 ```
 
