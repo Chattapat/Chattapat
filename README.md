@@ -1,8 +1,7 @@
-
 <h1 align="center"> "CHATTAPAT" </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chattapat/Chattapat/main/code.gif" height="240" alt="Coding animation">
+<img src="https://raw.githubusercontent.com/Chattapat/Chattapat/Warrior.gif" width="320" height="240" alt="Pixel Knight resting">
 </p>
 
 <p align="center">
@@ -19,7 +18,8 @@ Role       : Junior Developer
 Language   : Thai 🇹🇭, English 🌍
 ```
 
-- 🎓 วิศวกรรมคอมพิวเตอร์ @ มหาวิทยาลัยเทคโนโลยีสุรนารี  
+- 🎓 วิศวกรรมคอมพิวเตอร์ @ มหาวิทยาลัยเทคโนโลยีสุรนารี
+
 ---
 
 ### 📫 Contact & Connect
