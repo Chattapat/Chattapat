@@ -1,7 +1,7 @@
 <h1 align="center"> "CHATTAPAT" </h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Chattapat/Chattapat/main/Warrior.gif" width="480" height="480" alt="Pixel Knight resting">
+<img src="https://raw.githubusercontent.com/Chattapat/Chattapat/main/Warrior.gif" width="880" height="480" alt="Pixel Knight resting">
 </p>
 
 <p align="center">
