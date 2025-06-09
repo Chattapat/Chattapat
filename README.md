@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  💻 Full-stack | 🎨 UX/UI
+  💻 Full-stack มั้ง | 🎨 UX/UI มั้ง
 </p>
 
 ---
@@ -20,15 +20,6 @@ Language   : Thai 🇹🇭, English 🌍
 ```
 
 - 🎓 วิศวกรรมคอมพิวเตอร์ @ มหาวิทยาลัยเทคโนโลยีสุรนารี  
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chattapat&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chattapat&theme=radical" width="48%" />
-</p>
-
 ---
 
 ### 📫 Contact & Connect
