@@ -10,7 +10,7 @@
 
 ---
 
-### 🧑‍🚀 About Me
+### About Me
 
 ```txt
 Name       : Chattapat (FORCE)
