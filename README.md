@@ -13,7 +13,7 @@
 ### About Me
 
 ```txt
-Name       : Chattapat(FORCE)
+Name       : Chattapat (FORCE)
 Role       : Junior Developer
 Language   : Thai 🇹🇭, English 🌍
 ```
