@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Full-stack มั้ง | 🎨 UX/UI มั้ง
+  💻 Full-stack | 🎨 UX/UI
 </p>
 
 ---
