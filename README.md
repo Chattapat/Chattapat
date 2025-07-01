@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Full-Stack Developer | 🎨 UX/UI | 
+  Junior Full-Stack Developer | UX/UI
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ### About Me
 
 ```txt
-Name       : Chattapat (FORCE)
+Name       : Chattapat(FORCE)
 Role       : Junior Developer
 Language   : Thai 🇹🇭, English 🌍
 ```
@@ -21,12 +21,5 @@ Language   : Thai 🇹🇭, English 🌍
 🎓 วิศวกรรมคอมพิวเตอร์ @ มหาวิทยาลัยเทคโนโลยีสุรนารี
 
 ---
-
-### 📫 Contact & Connect
-
-<p align="center">
-  <a href="rchattapatprofit99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/_chattapat_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-</p>
 
 ---
