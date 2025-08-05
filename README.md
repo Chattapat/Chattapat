@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Junior Full-Stack Developer | UX/UI
+  Full-Stack Developer | UX/UI
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 ```txt
 Name       : Chattapat(FORCE)
-Role       : Junior Developer
+Role       : Junior Full-Stack Developer
 Language   : Thai 🇹🇭, English 🌍
 ```
 
